@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 30px;
+}
+
+.name {
+    margin: 15px; 
+}
+
+.last-name {
+    margin: 15px;
+}
+
+.e-addr {
+    margin: 15px;
+}
+
+.pass {
+    margin: 15px;
+}
+
+.birth-date {
+    margin: 15px;
+}
+
+.phone {
+    margin: 15px;
+}
+
+.music {
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    
+}
+
+.rock , .pop , .rap , .indie , .jazz , .classic , .yes , .no {
+    display: inline-block;
+    margin: 20px; 
+}
+
+.term-use {
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}
+
+.sbmt-btn {
+    margin: 15px;
+}
+

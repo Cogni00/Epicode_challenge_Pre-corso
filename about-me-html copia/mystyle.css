@@ -1,0 +1,12 @@
+body {background-color:aliceblue;}
+        p,ul,li,th,td {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+        h3,h1 {
+            color:cornflowerblue;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        table,th,td {
+            border: 1px solid black;
+        }
+        th,td {
+            height: 50px; width: 400px; 
+        }
